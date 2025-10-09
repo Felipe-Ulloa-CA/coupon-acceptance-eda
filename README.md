@@ -9,3 +9,9 @@ We added a simple baseline model using one-hot encoded categorical variables and
 - **F1 score:** 0.736
 
 You can reproduce the model in `notebooks/coupon_acceptance_full.ipynb`. The ROC curve is saved at `figures/roc_curve.png`.
+---
+
+### 📄 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+© 2025 **Felipe E. Ulloa**
