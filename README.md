@@ -12,7 +12,6 @@ You can reproduce the model in `notebooks/coupon_acceptance_full.ipynb`. The ROC
 ---
 
 ## Author
-
 **Felipe Eduardo Ulloa Orellana**  
 UC Berkeley Professional Certificate in Machine Learning & AI  
 Silicon Valley, California
